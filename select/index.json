@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "なにをやってもあかんわ",
+  "base_artist": "okazakitaiiku",
+  "createdAt": "2026-02-24T16:11:47.060102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なにをやってもあかんわ",
+      "artist": "岡崎体育",
+      "has_synced": true,
+      "path": "select/01_なにをやってもあかんわ_岡崎体育.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なにをやってもあかんわ",
+      "artist": "Okazaki Taiiku",
+      "has_synced": true,
+      "path": "select/02_なにをやってもあかんわ_Okazaki_Taiiku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なにをやってもあかんわ",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_01_なにをやってもあかんわ_岡崎体育.txt"
+    }
+  ]
+}
